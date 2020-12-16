@@ -1,0 +1,2 @@
+# myfirstgoapp
+just trying golang
